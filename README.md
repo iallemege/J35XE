@@ -16,7 +16,7 @@ Rb 24 and Rb 28 are included. Ash Weapon Pack is not required.
 
 ## 0.1
 
-First stable release. The runtime file inside the zip is `J35XE_2.6.49.dll`. The bag carries the Rb 24 and Rb 28 body meshes, icons, and descriptions.
+First stable release. The runtime file inside the zip is `J35XE_2.6.49.dll`. The bag carries the Rb 24 and Rb 28 body meshes, icons, and Ash descriptions.
 
 - Before G2E is on, the cockpit shows `Press U to turn on the G2E`.
 - F7 opens the cockpit layout menu. Saved layouts stay in `BepInEx/plugins/J35XE/Cockpits`.
