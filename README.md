@@ -1,8 +1,8 @@
 # J-35XE
 
-Closed-source **Nuclear Option** aircraft for BepInEx. Source is not included.
+Closed-source **Nuclear Option** aircraft for BepInEx. 
 
-Download the zip from **Releases**. This repository does not ship source.
+Download the zip from **Releases**. 
 
 ## Install
 
@@ -12,17 +12,13 @@ Download the zip from **Releases**. This repository does not ship source.
 4. Delete older `J35XE_*.dll` files. Delete `BIA.Runtime_1.0.25.dll` if it is still there. Do not keep `SaabJ35.nobp` in plugins at the same time.
 5. Fully quit the game, then start it again.
 
-Rb 24 and Rb 28 are included. Ash Weapon Pack is not required.
 
 ## 0.1
 
 First stable release. The runtime file inside the zip is `J35XE_2.6.47.dll`.
 
-- Before G2E is on, the cockpit shows `Press U to turn on the G2E`.
 - F7 opens the cockpit layout menu. Saved layouts stay in `BepInEx/plugins/J35XE/Cockpits`.
 - H arms SGLOC below the speed of sound. `[` and `]` pick how fast the nose swings. Centering the stick drops the mode.
-- A hard pull lays vapor along both wings.
-- Rb 24 and Rb 28 ship with this aircraft. They use the Ash pack's numbers, their names end with `[OAS-M]`, and they can lose a lock and lock again. Ash Weapon Pack is not required.
 - Workshop liveries: subscribe to an Aircraft Livery whose aircraft is J-35XE, or whose AircraftKey is SaabJ35.
 
 ## License
