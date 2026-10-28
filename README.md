@@ -1,6 +1,4 @@
-# J-35XE
-
-Closed-source **Nuclear Option** aircraft for BepInEx. Source is not included.
+ **Nuclear Option** aircraft for BepInEx. 
 
 Download the zip from **Releases**. This repository does not ship source.
 
@@ -12,7 +10,7 @@ Download the zip from **Releases**. This repository does not ship source.
 4. Delete older `J35XE_*.dll` files. Delete `BIA.Runtime_1.0.25.dll` if it is still there. Do not keep `SaabJ35.nobp` in plugins at the same time.
 5. Fully quit the game, then start it again.
 
-Rb 24 and Rb 28 are included. Ash Weapon Pack is not required.
+Rb 24 and Rb 28 are included.
 
 ## 0.1
 
