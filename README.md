@@ -1,6 +1,6 @@
  **Nuclear Option** aircraft for BepInEx. 
 
-Download the zip from **Releases**. This repository does not ship source.
+Download the zip from **Releases**. The plugin source is in `src/`.
 
 ## Install
 

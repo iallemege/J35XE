@@ -1,13 +1,12 @@
 J-35XE
 Copyright (c) IAllemege. All rights reserved.
 
-This software is proprietary. Source code is not published.
+This software is proprietary. The plugin source is published in this repository.
 
 You may use the compiled J-35XE files and the bundled BIA.Runtime DLL with Nuclear Option (Steam).
 
 You may not:
 - redistribute modified copies of these files as J-35XE or BIA
-- publish source, decompiled source, or a reimplementation derived from these binaries
 - remove copyright or version marks from the binaries
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
